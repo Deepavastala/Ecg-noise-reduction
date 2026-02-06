@@ -21,7 +21,7 @@ ECG signals are often corrupted by noise such as power-line interference and bas
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 1. Read header (.hea) and data (.dat) files  
 2. Extract sampling frequency and ECG samples  
@@ -41,7 +41,7 @@ ECG signals are often corrupted by noise such as power-line interference and bas
 
 ---
 
-## 📂 Files in This Repository
+##  Files in This Repository
 
 - ecg_denoising_project.m  
 - 00001_hr.dat  
